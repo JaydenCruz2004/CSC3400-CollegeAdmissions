@@ -16,8 +16,6 @@ import pandas as pd
 import numpy as np
 
 
-
-
 # read in the df
 # students_df = pd.read_csv('Admissions Test 1.csv')
 # students_df2 = pd.read_csv('Admissions Test 2.csv')
