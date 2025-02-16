@@ -29,6 +29,6 @@ This project is a Python program designed to assist with **college admissions de
 
 ---
 ## Author  
-Developed by Jayden Cruz
+Developed by Jayden Cruz\
 Belmont University – CSC 3400: Artificial Intelligence  
 
